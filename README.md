@@ -1,7 +1,7 @@
 # mini-vdom
 Material of a live coding session to create a Virtual DOM framework from scratch. Do not use in production, use our maquette library instead.
 
-# This repository is the result from
+#
 
 ### Executing the following commands
 - npm init
@@ -16,3 +16,10 @@ Material of a live coding session to create a Virtual DOM framework from scratch
 - src/example.ts
 - src/mini-vdom.ts
 - webpack.config.js
+
+
+- h uitbreiden
+- example uitbreiden met todo 'Buy milk', 'Go vote'
+- append functie schrijven
+- TODO items toevoegen (onkeydown enter)
+- TODO items verwijderen
